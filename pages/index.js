@@ -6,12 +6,12 @@ const Home = () => {
 		<div>
 			<>
 				Herobanner
-				<div>
+				<div className="products-heading">
 					<h2>Best selling products</h2>
 					<p>Speakers of many variations</p>
 				</div>
 				<div>
-					{['Product 1','Product 2'].map((product => product))}
+					{["Product 1", "Product 2"].map((product) => product)}
 				</div>
 				Footer
 			</>
