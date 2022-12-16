@@ -23,6 +23,7 @@
     "stripe": "^8.209.0"
   },
   "devDependencies": {
-    "@babel/plugin-syntax-jsx": "^7.18.6"
+    "@babel/plugin-syntax-jsx": "^7.18.6",
+    "@babel/preset-react": "^7.18.6"
   }
 }
